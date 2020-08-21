@@ -1,0 +1,31 @@
+.business-details-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+.business-details-container form input {
+  width: 300px;
+  height: 30px;
+  margin: 20px 0;
+  border-radius: 10px;
+  padding: 4px 8px;
+}
+
+.business-details-container form select {
+  width: 320px;
+  height: 40px;
+  margin: 20px 0;
+  border-radius: 10px;
+  padding: 4px 8px;
+}
+
+.business-details-container button {
+  border-radius: 10px;
+  width: 320px;
+  height: 30px;
+  margin-top: 20px;
+}

@@ -1,0 +1,22 @@
+.general-info-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+.general-info-container form input {
+  width: 200px;
+  height: 30px;
+  margin: 20px 0;
+  border-radius: 10px;
+}
+
+.general-info-container form select {
+  width: 208px;
+  height: 30px;
+  margin: 20px 0;
+  border-radius: 10px;
+}
